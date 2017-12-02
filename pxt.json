@@ -9,6 +9,7 @@
     "files": [
         "README.md",
         "ESP8266.ts"
+        "ESP82661.ts"
     ],
     "testFiles": [
         "tests.ts"
