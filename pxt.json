@@ -1,0 +1,18 @@
+{
+    "name": "ESP8266",
+    "version": "0.1.10",
+    "description": "ELECFREAKS environment IoT driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ESP8266.ts"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "installedVersion": "github:lvsongsongsong/pxt-environment-iot#v0.1.10"
+}
