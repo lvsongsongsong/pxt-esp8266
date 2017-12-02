@@ -1,4 +1,3 @@
-
 /**
  * Use this file to define custom functions and blocks.
  * Read more at https://makecode.microbit.org/blocks/custom
@@ -15,7 +14,7 @@ enum MyEnum {
  * Custom blocks
  */
 //% weight=100 color=#0fbc11 icon=""
-namespace ESP8266 {
+namespace ESP82661 {
     /**
      * TODO: describe your function here
      * @param n describe parameter here, eg: 5
